@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/consumet/consumet.ts#readme",
     "dependencies": {
-        "consumet.custom": "github:Brent001/consumet.ts_backups",
+        "consumet.custom": "Brent001/consumet.ts_backup",
         "@fastify/cors": "^8.5.0",
         "@types/node": "^18.11.17",
         "@types/ws": "^8.5.3",
